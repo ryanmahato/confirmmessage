@@ -9,3 +9,5 @@ License: GPLv2 or later
 Text Domain: onfirm message received
 
 Get email when people accept the term and condition.
+
+Wordpress Send message email test
