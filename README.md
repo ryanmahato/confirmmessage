@@ -1,13 +1,3 @@
-# confirmmessage
-Plugin Name: Confirm Message
-Plugin URI: https://mauriya.me/
-Description: Confirm message received.
-Version: 1.0
-Author: Ryan
-Author URI: https://mauriya.me/
-License: GPLv2 or later
-Text Domain: onfirm message received
+This email plugin sends the email message to the email account with link containing nonces with time limit and one time use. If the limit of one time use and time limit had passed, the link is no more valid. 
 
-Get email when people accept the term and condition.
 
-Wordpress Send message email test
